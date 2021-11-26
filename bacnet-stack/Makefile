@@ -6,7 +6,7 @@ PKG_SOURCE_VERSION:=56034b7b11f53efba749a162447a71d10b6fcc3a
 PKG_RELEASE:=$(PKG_SOURCE_VERSION)
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=git://github.com/stargieg/bacnet-stack.git
+PKG_SOURCE_URL:=git://github.com/dhavalvasveliya/bacnet-stack-1.git
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION)-$(PKG_SOURCE_VERSION).tar.gz
 
